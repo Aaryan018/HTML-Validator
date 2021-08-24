@@ -1,7 +1,6 @@
 //LinkedStack.h file
 //Description: This class models a stack
 //Author: Aaryan Gupta
-//Creation Date: June 5, 2021
 
 
 #ifndef LINKEDSTACK_H

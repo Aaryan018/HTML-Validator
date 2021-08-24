@@ -1,7 +1,6 @@
 //ER.h file
 //Description: This program checks whether an HTML file is valid or not
 //Author: Aaryan Gupta
-//Creation Date: June 5, 2021
 
 
 #include<iostream>

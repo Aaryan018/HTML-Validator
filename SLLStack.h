@@ -1,6 +1,5 @@
 //SLLStack.h file
 //Description: This class models a linked list
-//Creation Date: June 5, 2021
 
 //This class has been made using help from the sample code that Dr.Bita Shadgar has 
 //provided us in the class.
